@@ -14,6 +14,9 @@ ln -s /path/to/gh /usr/local/bin
 Win:
 
 ```sh
+# Go to your repo
 cd /path/to/your/repo
-gh // Opens in your browser
+
+# Open it in your browser
+gh
 ```
